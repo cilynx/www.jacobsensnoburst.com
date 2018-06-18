@@ -24,7 +24,8 @@ github_username:  cilynx
 linkedin_username: cilynx
 
 google_analytics: UA-20475286-1
-disqus: jacobsensnoburst
+disqus:
+  shortname: jacobsensnoburst
 
 # Build settings
 markdown: kramdown
